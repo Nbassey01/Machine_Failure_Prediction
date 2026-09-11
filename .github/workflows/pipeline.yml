@@ -4,8 +4,8 @@ on:
   push:
       branches:
          -main  # Automatically triggers on push to the main branch
-         
-  # ---------- JOB 1:Register Dataset ----------
+jobs:       
+ #---------- JOB 1:Register Dataset ----------
   register-dataset:
     name: Register
     runs-on: ubuntu-latest
