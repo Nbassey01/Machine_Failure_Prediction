@@ -1,4 +1,3 @@
-%%writefile project/.github/workflows/pipeline.yml
 name: Machine Failure MLOps Pipeline
 
 on:
