@@ -4,7 +4,6 @@ on:
   workflow_dispatch:      #Lets you click "Run workflow" in the Action tab
 
 permissions:
-  content: write
 
 jobs:
   # ---------- JOB 1:Register Dataset ----------
